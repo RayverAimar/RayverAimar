@@ -79,8 +79,8 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RayverAimar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayverAimar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+  <img src="https://github-readme-stats-gules-nu-84.vercel.app/api?username=RayverAimar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats-gules-nu-84.vercel.app/api/top-langs/?username=RayverAimar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
 </p>
 
 ---
