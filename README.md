@@ -1,20 +1,19 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=180&section=header&text=Rayver%20Mu%C3%B1oz%20Curi&fontSize=44&fontColor=ffffff&desc=Backend%20Engineer%20%C2%B7%20CS%20%40%20UCSP&descSize=18&descAlignY=72" width="100%"/>
+</p>
+
 # Rayver Muñoz Curi
 
 > Backend engineer building systems that help compliance teams sleep at night.
 > Currently shipping `Django × KYC/AML` by day, `compilers × MCP` by night.
 
 📍 Arequipa, Perú · CS @ UCSP · Backend Engineer @ Canaria
-📫 [rayver.munoz@ucsp.edu.pe](mailto:rayver.munoz@ucsp.edu.pe) · 💼 [LinkedIn](https://www.linkedin.com/in/rayver-munoz/) · 🌐 [github.com/RayverAimar](https://github.com/RayverAimar)
 
----
-
-### 🛠️ Current work
-
-| Maintaining | Building | Learning |
-|-------------|----------|----------|
-| Canaria Screener (KYC/AML, internal) | [pyxus](https://github.com/RayverAimar/pyxus) — code intel + MCP | Rust |
-| [yarl](https://github.com/RayverAimar/yarl) | [elections-peru-2026](https://github.com/RayverAimar/elections-peru-2026) | LLM-ops · RAG · agents |
-| [40-algorithms](https://github.com/RayverAimar/40-algorithms-every-programmer-should-know) | [skytech](https://github.com/RayverAimar/skytech) | Distributed systems |
+<p>
+  <a href="mailto:rayver.munoz@ucsp.edu.pe"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ray-emece"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/RayverAimar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -54,25 +53,33 @@
 
 ---
 
-### 🚀 Currently shipping
+### 🗂️ Projects
 
-- 🦞 **[pyxus](https://github.com/RayverAimar/pyxus)** — Python code intelligence engine exposed via MCP. Static analysis as a knowledge graph for AI agents.
-- 🗳️ **[elections-peru-2026](https://github.com/RayverAimar/elections-peru-2026)** — Public data pipeline for Peru's 2026 general elections.
-- ✈️ **[skytech](https://github.com/RayverAimar/skytech)** — Conversational flight search powered by LLMs.
+**🛠️ Developer Tooling**
 
-### 🎓 Greatest hits
+- **[pyxus](https://github.com/RayverAimar/pyxus)** — Python code intelligence engine exposed via MCP. Static analysis as a knowledge graph for AI agents. `Python` `MCP` `AST`
 
-- 🛠️ **[yarl](https://github.com/RayverAimar/yarl)** ⭐ — ChocoPy → Python compiler from scratch. Lexer, parser, type checker, codegen.
-- 🔬 **[hybrid-cnn-transformer-model](https://github.com/RayverAimar/hybrid-cnn-transformer-model)** — Skin cancer classification combining CNN feature extractors with Transformer attention (CS thesis).
-- 📚 **[40-algorithms-every-programmer-should-know](https://github.com/RayverAimar/40-algorithms-every-programmer-should-know)** ⭐ — Algorithm implementations from the book in C++.
-- 🧩 **[dbscan](https://github.com/RayverAimar/dbscan)** ⭐ — DBSCAN clustering in C++.
+**🔤 Compilers & Languages**
 
-### 🧬 CS deep-dives
+- **[yarl](https://github.com/RayverAimar/yarl)** ⭐ — ChocoPy → Python compiler from scratch. Lexer, parser, type checker, codegen. `Python`
+- **[40-algorithms-every-programmer-should-know](https://github.com/RayverAimar/40-algorithms-every-programmer-should-know)** ⭐ — Algorithm implementations from the book in C++. `C++`
 
-- 🧪 **[pair-alignment-hmm](https://github.com/RayverAimar/pair-alignment-hmm)** · **[profile-analysis-hmm](https://github.com/RayverAimar/profile-analysis-hmm)** — Bioinformatics with Hidden Markov Models.
-- ⚡ **[cuda-labs](https://github.com/RayverAimar/cuda-labs)** — CUDA notebooks (CS321).
-- 🎮 **[CG-rubiks-cube-solver](https://github.com/RayverAimar/CG-rubiks-cube-solver)** — OpenGL Rubik's Cube + solver.
-- 🌐 **[Network-protocols](https://github.com/RayverAimar/Network-protocols)** — Client/server protocol implementations.
+**🧬 AI / ML & Data Science**
+
+- **[hybrid-cnn-transformer-model](https://github.com/RayverAimar/hybrid-cnn-transformer-model)** — Skin cancer classification combining CNN + Transformer attention (CS thesis). `PyTorch`
+- **[pair-alignment-hmm](https://github.com/RayverAimar/pair-alignment-hmm)** · **[profile-analysis-hmm](https://github.com/RayverAimar/profile-analysis-hmm)** — Bioinformatics with Hidden Markov Models. `Python`
+- **[dbscan](https://github.com/RayverAimar/dbscan)** ⭐ — DBSCAN clustering from scratch. `C++`
+- **[skytech](https://github.com/RayverAimar/skytech)** — Conversational flight search powered by LLMs over scraped airline data. `Python` `RAG`
+
+**⚙️ Systems & Graphics**
+
+- **[CG-rubiks-cube-solver](https://github.com/RayverAimar/CG-rubiks-cube-solver)** — OpenGL Rubik's Cube renderer + solver. `C++` `OpenGL`
+- **[cuda-labs](https://github.com/RayverAimar/cuda-labs)** — CUDA parallel computing notebooks (CS321). `CUDA`
+- **[Network-protocols](https://github.com/RayverAimar/Network-protocols)** — Client/server protocol implementations. `C`
+
+**🗳️ Data Pipelines**
+
+- **[elections-peru-2026](https://github.com/RayverAimar/elections-peru-2026)** — Public data pipeline for Peru's 2026 general elections. Scraping, cleaning, modeling. `Python`
 
 ---
 
@@ -80,7 +87,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-gules-nu-84.vercel.app/api?username=RayverAimar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats-gules-nu-84.vercel.app/api/top-langs/?username=RayverAimar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+  <img src="https://github-readme-stats-gules-nu-84.vercel.app/api/top-langs/?username=RayverAimar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" height="160"/>
 </p>
 
 ---
