@@ -55,6 +55,12 @@
 
 ### 🗂️ Projects
 
+**🏢 Full-stack Apps & Products**
+
+- **[cuadrante](https://github.com/RayverAimar/cuadrante)** ⭐ — Monthly shift roster for teams with rotating staff: sticky scrollable grid, real-time rule validation, undo/redo + persistent audit log, PDF/Excel exports. Per-user privacy via Postgres RLS. [Live demo](https://rayveraimar.github.io/cuadrante/). `React` `TypeScript` `Supabase` `RLS`
+- **kuchi-store** *(private)* — Korean-styled e-commerce platform: product catalog, cart, auth, orders, admin dashboard. [Live](https://kuchi-store.com) · [details](https://rayveraimar.github.io). `Django` `DRF` `React 19` `PostgreSQL` `GCP`
+- **tax-books-manager** *(private)* — Cross-platform desktop app for SUNAT electronic tax books. Multi-company, multi-period, CSV/ZIP import, PDF/Excel export, offline-first SQLite. [details](https://rayveraimar.github.io). `Tauri` `Rust` `React 19` `SQLite`
+
 **🛠️ Developer Tooling**
 
 - **[pyxus](https://github.com/RayverAimar/pyxus)** — Python code intelligence engine exposed via MCP. Static analysis as a knowledge graph for AI agents. `Python` `MCP` `AST`
@@ -77,9 +83,9 @@
 - **[cuda-labs](https://github.com/RayverAimar/cuda-labs)** — CUDA parallel computing notebooks (CS321). `CUDA`
 - **[Network-protocols](https://github.com/RayverAimar/Network-protocols)** — Client/server protocol implementations. `C`
 
-**🗳️ Data Pipelines**
+**🗳️ Civic Tech & Data Pipelines**
 
-- **[elections-peru-2026](https://github.com/RayverAimar/elections-peru-2026)** — Public data pipeline for Peru's 2026 general elections. Scraping, cleaning, modeling. `Python`
+- **[elections-peru-2026](https://github.com/RayverAimar/elections-peru-2026)** — Vote compass + RAG chatbot over government plans for Peru's 2026 general elections. Adaptive quiz, news monitoring, political event tracking across 36 parties. `FastAPI` `Astro` `Preact` `pgvector` `Claude`
 
 ---
 
