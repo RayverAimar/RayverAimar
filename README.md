@@ -59,11 +59,13 @@
 
 - **[cuadrante](https://github.com/RayverAimar/cuadrante)** ⭐ — Monthly shift roster for teams with rotating staff: sticky scrollable grid, real-time rule validation, undo/redo + persistent audit log, PDF/Excel exports. Per-user privacy via Postgres RLS. [Live demo](https://rayveraimar.github.io/cuadrante/). `React` `TypeScript` `Supabase` `RLS`
 - **kuchi-store** *(private)* — Korean-styled e-commerce platform: product catalog, cart, auth, orders, admin dashboard. [Live](https://kuchi-store.com) · [details](https://rayveraimar.github.io). `Django` `DRF` `React 19` `PostgreSQL` `GCP`
-- **tax-books-manager** *(private)* — Cross-platform desktop app for SUNAT electronic tax books. Multi-company, multi-period, CSV/ZIP import, PDF/Excel export, offline-first SQLite. [details](https://rayveraimar.github.io). `Tauri` `Rust` `React 19` `SQLite`
+- **[tax-books-manager](https://github.com/RayverAimar/tax-books-manager)** — Cross-platform desktop app for SUNAT electronic tax books. Multi-company, multi-period, CSV/ZIP import, PDF/Excel export, offline-first SQLite. `Tauri` `Rust` `React 19` `SQLite`
 
 **🛠️ Developer Tooling**
 
 - **[pyxus](https://github.com/RayverAimar/pyxus)** — Python code intelligence engine exposed via MCP. Static analysis as a knowledge graph for AI agents. `Python` `MCP` `AST`
+- **[codeforces-analytics](https://github.com/RayverAimar/codeforces-analytics)** — Frontend-only analytics dashboard for any Codeforces profile: rating history, submission heatmap, skills radar, language and difficulty breakdowns. [Live demo](https://rayveraimar.github.io/codeforces-analytics/). `React 19` `TypeScript` `ECharts`
+- **[otorongo-scraper](https://github.com/RayverAimar/otorongo-scraper)** — Scrapy spider over otorongo.club extracting Peruvian election candidate profiles — criminal backgrounds, education, work history, political experience. `Python` `Scrapy`
 
 **🔤 Compilers & Languages**
 
@@ -79,9 +81,18 @@
 
 **⚙️ Systems & Graphics**
 
-- **[CG-rubiks-cube-solver](https://github.com/RayverAimar/CG-rubiks-cube-solver)** — OpenGL Rubik's Cube renderer + solver. `C++` `OpenGL`
+- **[CG-rubiks-cube-solver](https://github.com/RayverAimar/CG-rubiks-cube-solver)** — OpenGL Rubik's Cube renderer + Kociemba solver. `C++` `OpenGL`
 - **[cuda-labs](https://github.com/RayverAimar/cuda-labs)** — CUDA parallel computing notebooks (CS321). `CUDA`
-- **[Network-protocols](https://github.com/RayverAimar/Network-protocols)** — Client/server protocol implementations. `C`
+- **[Network-protocols](https://github.com/RayverAimar/Network-protocols)** — Multi-client TCP chat server in C++17 with custom binary protocol — DMs, broadcast, file transfer, embedded TicTacToe. `C++17` `POSIX sockets`
+
+**🎓 Academic Algorithms** — *from-scratch coursework implementations*
+
+- **[k-means-cpp](https://github.com/RayverAimar/k-means-cpp)** — K-Means clustering in C++17 with zero deps. Iris + Wine demos, scaling benchmark to 1M points. `C++17` `Python`
+- **[bioinformatics-algorithms](https://github.com/RayverAimar/bioinformatics-algorithms)** — Sequence alignment in C++: Needleman-Wunsch, Smith-Waterman, Star Alignment. Dot-plot viz on real NCBI sequences. `C++17`
+- **[secondary-structure-RNA](https://github.com/RayverAimar/secondary-structure-RNA)** — RNA secondary structure prediction with the Nussinov DP algorithm. `C++17`
+- **[TSP-genetic-algorithm](https://github.com/RayverAimar/TSP-genetic-algorithm)** — Genetic algorithm in C++ approximating Hamiltonian tours over 26 cities (~53% shorter routes). `C++17` `Python`
+- **[neural-network](https://github.com/RayverAimar/neural-network)** — Feedforward neural network from scratch in NumPy. 96.5% on Breast Cancer Wisconsin. `Python` `NumPy`
+- **[Adversarial-search](https://github.com/RayverAimar/Adversarial-search)** — Configurable N×N Tic-Tac-Toe with Minimax + α-β pruning. Tk GUI with live evaluation-tree inspector. `Python` `Tkinter`
 
 **🗳️ Civic Tech & Data Pipelines**
 
